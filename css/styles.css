@@ -181,6 +181,7 @@ ul {
 .section-two-ul {
   display: flex;
   gap: 24px;
+  margin-bottom: 8px;
 }
 .section-two-li {
   width: calc((100% -72px) / 4);
@@ -191,7 +192,6 @@ ul {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
-  padding-bottom: 8px;
 }
 .section-two-p {
   font-weight: 400;
