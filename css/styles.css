@@ -210,11 +210,18 @@ ul {
   text-align: center;
   text-transform: capitalize;
   color: #2e2f42;
+  padding-bottom: 72px;
 }
 .section-three-ul {
+  display: flex;
+  gap: 24px;
+  border-radius: 0px 0px 4px 4px;
 }
 .section-three-li {
   background-color: #fff;
+  width: calc((100% -72px) / 4);
+}
+.bass {
 }
 
 .section-three-person {
@@ -232,6 +239,7 @@ ul {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+  text-align: center;
 }
 
 .section-four {
