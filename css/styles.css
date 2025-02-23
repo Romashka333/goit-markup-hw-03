@@ -168,6 +168,7 @@ ul {
   border: none;
   display: block;
   margin: 0 auto;
+  cursor: pointer;
 }
 .section-one-button:hover,
 .section-one-button:focus {
