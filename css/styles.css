@@ -149,10 +149,10 @@ ul {
   font-size: 56px;
   line-height: 1.07;
   max-width: 496px;
-
   letter-spacing: 0.02em;
   color: #fff;
   text-align: center;
+  margin: 0 auto;
 }
 .section-one-button {
   font-family: inherit;
@@ -296,6 +296,7 @@ ul {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
+  max-width: 264px;
 }
 .footer {
   background-color: #2e2f42;
