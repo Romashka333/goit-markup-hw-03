@@ -217,7 +217,7 @@ ul {
   text-align: center;
   text-transform: capitalize;
   color: #2e2f42;
-  padding-bottom: 72px;
+  margin-bottom: 72px;
 }
 .section-three-ul {
   display: flex;
